@@ -1,23 +1,23 @@
+ <div align="center">
 
-<div align="center">
+<!-- LOGO AREA: Add your custom logo here later -->
+<!-- <img src="YOUR_LOGO_URL" width="120" alt="katexd1337 logo" /> -->
 
-<img src="https://i.hizliresim.com/e2bvvkat.png" width="112" alt="katexd" />
+# K A T E X D 1 3 3 7
 
-# K A T E X D
+**SOFTWARE DEVELOPER / SECURITY RESEARCHER**
 
-**SOFTWARE DEVELOPER · SECURITY RESEARCHER**
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=13&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=480&lines=Reverse+Engineering;Windows+Internals;Security+Research;Anti-Cheat+Engineering;Software+Development" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=000000)](https://github.com/katexd)
-[![Discord](https://img.shields.io/badge/Discord-FFFFFF?style=flat-square&logo=discord&logoColor=000000)](https://discord.gg/jmc)
-[![Website](https://img.shields.io/badge/Website-FFFFFF?style=flat-square&logo=googlechrome&logoColor=000000)](https://katedev.devs.surf/)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=13&duration=3200&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=REVERSE+ENGINEERING;SECURITY+RESEARCH;WINDOWS+INTERNALS;ANTI-CHEAT+ENGINEERING;SOFTWARE+DEVELOPMENT" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=katexd&style=flat-square&color=555555&label=PROFILE+VIEWS" />
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/katexd1337)
+[![Discord](https://img.shields.io/badge/DISCORD-000000?style=flat-square&logo=discord&logoColor=FFFFFF)](https://discord.gg/jmc)
+[![Website](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=googlechrome&logoColor=FFFFFF)](https://katedev.devs.surf/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=katexd1337&style=flat-square&color=000000&label=PROFILE+VIEWS)
 
 </div>
 
@@ -25,43 +25,49 @@
 
 <div align="center">
 
-### 01 / ABOUT
+### 01 — PROFILE
+
+*Understanding systems. Exploring possibilities. Building solutions.*
 
 </div>
 
-I'm a software developer focused on understanding systems, exploring software behavior and building practical solutions.
+I'm a software developer with a strong interest in security research, reverse engineering and low-level software engineering.
 
-My interests include security research, reverse engineering, Windows internals and low-level software development.
+I focus on understanding how applications and operating systems work internally, analyzing software behavior and developing practical tools.
 
-I enjoy investigating how things work beneath the surface, experimenting with new technologies and continuously improving my engineering skills.
+My approach combines technical curiosity, analytical thinking and continuous experimentation.
 
 ```python
 class Developer:
-    username = "katexd"
-    role = "Software Developer"
+    def __init__(self):
+        self.username = "katexd1337"
+        self.role = "Software Developer"
 
-    interests = [
-        "Security Research",
-        "Reverse Engineering",
-        "Anti-Cheat Engineering",
-        "Windows Internals",
-        "Full Stack Development"
-    ]
+        self.fields = [
+            "Security Research",
+            "Reverse Engineering",
+            "Anti-Cheat Engineering",
+            "Windows Internals",
+            "Full Stack Development"
+        ]
 
-    philosophy = "Understand. Analyze. Build. Improve."
+    def motto(self):
+        return "Understand. Analyze. Engineer."
 ```
 
 ---
 
 <div align="center">
 
-### 02 / TECHNOLOGIES
+### 02 — TECHNOLOGY
 
-<br/>
+**LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css&theme=dark" />
 
 <br/><br/>
+
+**TOOLS & PLATFORMS**
 
 <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,visualstudio&theme=dark" />
 
@@ -69,17 +75,13 @@ class Developer:
 
 ---
 
-<div align="center">
-
-### 03 / RESEARCH & ENGINEERING
-
-</div>
+### 03 — TECHNICAL INTERESTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 — SECURITY RESEARCH**
+**01 / SECURITY RESEARCH**
 
 - Application security
 - Vulnerability research
@@ -89,33 +91,33 @@ class Developer:
 </td>
 <td width="50%" valign="top">
 
-**02 — REVERSE ENGINEERING**
+**02 / REVERSE ENGINEERING**
 
 - Binary analysis
 - Static analysis
 - Dynamic analysis
-- Software behavior research
+- Software behavior analysis
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**03 — ANTI-CHEAT ENGINEERING**
+**03 / ANTI-CHEAT ENGINEERING**
 
 - Anti-cheat architecture
 - Detection mechanisms
-- Game security
-- System-level investigation
+- Game security research
+- System-level analysis
 
 </td>
 <td width="50%" valign="top">
 
-**04 — WINDOWS INTERNALS**
+**04 / WINDOWS INTERNALS**
 
 - Operating system internals
-- Low-level programming
 - Process analysis
+- Low-level programming
 - Digital forensics
 
 </td>
@@ -126,13 +128,13 @@ class Developer:
 
 <div align="center">
 
-### 04 / CURRENT FOCUS
+### 04 — CURRENT FOCUS
 
 </div>
 
 ```yaml
-development:
-  - Software Engineering
+engineering:
+  - Software Development
   - Desktop Applications
   - Development Tools
 
@@ -140,6 +142,7 @@ research:
   - Reverse Engineering
   - Windows Internals
   - Application Security
+  - Anti-Cheat Systems
 
 languages:
   - Python
@@ -148,8 +151,9 @@ languages:
   - TypeScript
 
 environment:
-  operating_system: Windows
+  os: Windows
   editor: Visual Studio Code
+  ide: Visual Studio
   version_control: Git
 ```
 
@@ -157,17 +161,31 @@ environment:
 
 <div align="center">
 
-### 05 / GITHUB STATISTICS
+### 05 — GITHUB OVERVIEW
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=katexd&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=AAAAAA&include_all_commits=true" />
+<img src="https://img.shields.io/github/followers/katexd1337?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=000000" />
+<img src="https://img.shields.io/github/stars/katexd1337?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=000000" />
+<img src="https://img.shields.io/github/repo-size/katexd1337/katexd1337?style=for-the-badge&logo=github&logoColor=white&label=PROFILE+REPO&color=000000" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katexd&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&langs_count=8" />
+</div>
+
+---
+
+<div align="center">
+
+### 06 — GITHUB STATISTICS
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=katexd1337&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=B3B3B3&icon_color=FFFFFF&include_all_commits=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katexd1337&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=B3B3B3&langs_count=8" />
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com/?user=katexd&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
+<img width="90%" src="https://streak-stats.demolab.com/?user=katexd1337&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=B3B3B3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
 
 </div>
 
@@ -175,55 +193,50 @@ environment:
 
 <div align="center">
 
-### 06 / DEVELOPMENT ENVIRONMENT
+### 07 — CONTRIBUTION ACTIVITY
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio,git,github&theme=dark" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=katexd1337&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=444444&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" />
 
 </div>
 
-| COMPONENT | ENVIRONMENT |
+---
+
+### 08 — DEVELOPMENT ENVIRONMENT
+
+| CATEGORY | TECHNOLOGY |
 |:---|:---|
 | Operating System | Windows |
+| Programming | Python / C++ / JavaScript / TypeScript |
 | Code Editor | Visual Studio Code |
 | IDE | Visual Studio |
 | Version Control | Git |
-| Development Platform | GitHub |
+| Platform | GitHub |
 
 ---
 
 <div align="center">
 
-### 07 / PRINCIPLES
+### 09 — ENGINEERING MINDSET
 
 <br/>
 
-`ANALYZE` &nbsp; / &nbsp; `INVESTIGATE` &nbsp; / &nbsp; `UNDERSTAND` &nbsp; / &nbsp; `IMPROVE`
+`RESEARCH` &nbsp; `ANALYZE` &nbsp; `INVESTIGATE` &nbsp; `ENGINEER`
 
-</div>
+<br/><br/>
 
 ```python
 while True:
-    research()
-    analyze()
-    experiment()
+    observe()
+    investigate()
+    understand()
     improve()
 ```
 
----
-
-<div align="center">
-
-### 08 / PORTFOLIO
-
-**Personal projects, software development and technical research.**
-
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE_PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://katedev.devs.surf/)
-
-<br/>
+**Curiosity drives discovery. Precision drives engineering.**
 
 </div>
 
@@ -231,13 +244,29 @@ while True:
 
 <div align="center">
 
-### 09 / CONNECT
+### 10 — PORTFOLIO
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-FFFFFF?style=flat-square&logo=github&logoColor=000000)](https://github.com/katexd)
-[![Discord](https://img.shields.io/badge/DISCORD-FFFFFF?style=flat-square&logo=discord&logoColor=000000)](https://discord.gg/jmc)
-[![Website](https://img.shields.io/badge/WEBSITE-FFFFFF?style=flat-square&logo=googlechrome&logoColor=000000)](https://katedev.devs.surf/)
+**Projects · Development · Technical Research**
+
+<br/>
+
+[![PORTFOLIO](https://img.shields.io/badge/EXPLORE_PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://katedev.devs.surf/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 11 — CONNECT
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/katexd1337)
+[![Discord](https://img.shields.io/badge/DISCORD-000000?style=flat-square&logo=discord&logoColor=FFFFFF)](https://discord.gg/jmc)
+[![Website](https://img.shields.io/badge/WEBSITE-000000?style=flat-square&logo=googlechrome&logoColor=FFFFFF)](https://katedev.devs.surf/)
 
 <br/><br/>
 
@@ -245,7 +274,7 @@ while True:
 
 <br/>
 
-<sub>© KATEXD · 2026</sub>
+<sub>© 2026 KATEXD1337</sub>
 
 <br/>
 
