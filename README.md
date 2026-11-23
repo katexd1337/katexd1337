@@ -7,7 +7,7 @@
 
 **SOFTWARE DEVELOPER / SECURITY RESEARCHER**
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=13&duration=3200&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=REVERSE+ENGINEERING;SECURITY+RESEARCH;WINDOWS+INTERNALS;ANTI-CHEAT+ENGINEERING;SOFTWARE+DEVELOPMENT" />
+<img src="https://i.hizliresim.com/isbu6siv.png" />
 
 <br/>
 
