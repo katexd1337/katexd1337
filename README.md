@@ -13,7 +13,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-katexd1337-white?style=flat-square&logo=github&logoColor=black)](https://github.com/katexd1337)
 [![Discord](https://img.shields.io/badge/Discord-Community-white?style=flat-square&logo=discord&logoColor=black)](https://discord.gg/jmc)
-[![Website](https://img.shields.io/badge/Website-Portfolio-white?style=flat-square&logo=googlechrome&logoColor=black)](katexd.devs.surf/)
+[![Website](https://img.shields.io/badge/Website-Portfolio-white?style=flat-square&logo=googlechrome&logoColor=black)](https://katexd.devs.surf/)
 
 </div>
 
