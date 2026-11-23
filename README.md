@@ -1,7 +1,7 @@
  <div align="center">
 
 <!-- CUSTOM LOGO: Replace YOUR_LOGO_URL with your logo image URL -->
-<img src="https://i.hizliresim.com/rg0vycia.png" width="135" alt="KATEXD1337 Logo" />
+<img src="https://i.hizliresim.com/zsfkpjyp.png" width="135" alt="KATEXD1337 Logo" />
 
 <br />
 
